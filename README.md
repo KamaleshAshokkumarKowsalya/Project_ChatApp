@@ -9,5 +9,6 @@ Java Project Chat App is a real-time messaging application built using Java. It 
 - Multiple chat rooms/private chats
 - Simple, intuitive GUI
 - Secure and efficient communication
+- AWT and swing for the Java 
 
 This repository is ideal for students, educators, and developers interested in Java networking and building interactive applications.
